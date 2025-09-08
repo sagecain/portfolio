@@ -1,33 +1,31 @@
-# Sage Cain | Data Analytics Portfolio
+# Hi, I'm Sage 👋  
+**Data Analyst | SQL | Tableau | Power BI | Google Cloud**  
 
-Welcome to my portfolio! Here you’ll find a collection of projects showcasing my skills in data analytics, SQL, visualization, and predictive modeling.  
-
----
-
-## 📊 Projects
-
-### [Installer Retention Forecasting (Churn Prediction)](https://github.com/sagecain/installer-retention-forecasting)
-- Built predictive models (Logistic Regression, Random Forest, XGBoost) to identify drivers of installer attrition.
-- Reduced reporting complexity and highlighted key retention factors such as tenure, workload, and contract type.
-- **Skills used:** Python, scikit-learn, pandas, matplotlib, EDA, predictive modeling.
+Welcome to my Portfolio! I specialize in turning raw data into actionable insights through visualization, predictive analytics, and cloud solutions.  
+Currently pursuing a **Bachelor of Science in Data Analytics at Purdue University Global (Oct 2025)**.  
 
 ---
 
-### Hospital Supply Chain Dashboard *(Coming Soon)*
-- Interactive Power BI dashboard to track procurement KPIs and supplier performance.
-- Designed to reduce reporting time by 35% and improve operational decision-making.
-- **Skills to be showcased:** Power BI, KPI development, data visualization.
+## 🚀 Projects  
 
----
+### [Installer Retention Forecasting](https://github.com/sagecain/installer-retention-forecasting)  
+Predictive modeling project using Python (scikit-learn) to analyze installer retention and forecast churn.  
+**Skills:** Python, Pandas, scikit-learn, Data Visualization  
 
-### Workforce Attrition Analysis *(Coming Soon)*
-- SQL queries and Tableau dashboard analyzing workforce attrition drivers.
-- Identifies key factors such as overtime, tenure, and department.
-- **Skills to be showcased:** SQL, Tableau, statistical analysis, visualization.
+### [Hospital Supply Chain Dashboard](https://github.com/sagecain/hospital-dashboard)  
+Power BI dashboard tracking procurement KPIs, reducing reporting time by 35%.  
+**Skills:** Power BI, Data Visualization, KPI Development  
 
----
+### [Retail Sales Forecasting](https://github.com/sagecain/retail-sales-forecasting)  
+Time series project using Python (SARIMAX) to forecast monthly retail revenue from the UCI Online Retail dataset.  
+**Skills:** Python, Pandas, Statsmodels, Time Series Forecasting, Data Visualization  
 
-## 🔗 Connect with Me
+## 🧰 Toolbox
+- Languages: Python (Pandas, NumPy, scikit-learn, Statsmodels), SQL  
+- Visualization: Tableau, Power BI, Matplotlib  
+- Cloud: Google Cloud (BigQuery, Data Analytics, AI Essentials)  
+- Other: Jupyter, GitHub, Excel  
+
+## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sage-cain)  
-- [GitHub](https://github.com/sagecain)  
-- 📧 Email: sage.cain@yahoo.com
+- Email: sage.cain@yahoo.com  
